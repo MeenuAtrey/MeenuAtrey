@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MeenuAtrey
 - 👀 I’m interested in sharing my Java/Selenium & Python/Selenium code to collaborate publically 
-- 🌱 I’m currently learning cross browser quirks
 - 💞️ I’m looking to collaborate on all the aspects of front-end/API automation
 
 
